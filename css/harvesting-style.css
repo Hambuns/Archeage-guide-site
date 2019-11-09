@@ -79,6 +79,7 @@ main h3{
 	font-family: 'Acme', sans-serif;
 }
 
-nav ul li.contact{
+.contact{
 	color: red;
 }
+
